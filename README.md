@@ -10,8 +10,8 @@ The firmware changes live in two forks:
   [sqtactical/firmware `sx1262-fsk`](https://github.com/sqtactical/firmware/tree/sx1262-fsk)
   ([docs](https://github.com/sqtactical/firmware/blob/sx1262-fsk/docs/sx1262-gfsk-868.md))
 - Jentastic `testing` + SETFSK on SX1262:
-  [sqtactical/jentastic `sx1262-fsk`](https://github.com/sqtactical/jentastic/tree/sx1262-fsk)
-  ([docs](https://github.com/sqtactical/jentastic/blob/sx1262-fsk/docs/sx1262-fsk.md))
+  [sqtactical/jentastic `sx12xx-fsk-flrc`](https://github.com/sqtactical/jentastic/tree/sx12xx-fsk-flrc) (SX1280 and SX1262 together)
+  ([docs](https://github.com/sqtactical/jentastic/blob/sx12xx-fsk-flrc/docs/sx1262-fsk.md))
 
 ## Headline numbers
 
@@ -24,7 +24,7 @@ Two boards in one room, SX1262 at −9 dBm (RSSI −6 to −8 dBm), 869.525 MHz.
 | Minimal modem, mesh-style relay (ACK per hop) | 111 kb/s (300k), 37-43 % of nominal | 25.4 kb/s (SF5 / 500 kHz) |
 | Meshtastic `sx1262-fsk`, median DM→ACK round trip | 83-161 ms | 339 ms (SHORT_FAST), 987 ms (MEDIUM_FAST) |
 | Meshtastic, most delivered without loss (raw serial frames) | ~37 kb/s | ~6.5 kb/s (SHORT_FAST) |
-| Jentastic `sx1262-fsk`, median DM→ACK round trip | 103-225 ms (SETFSK 25-300) | 1067 ms (MEDIUM_FAST) |
+| Jentastic `sx12xx-fsk-flrc`, median DM→ACK round trip | 103-225 ms (SETFSK 25-300) | 1067 ms (MEDIUM_FAST) |
 
 Every minimal-modem test (34 modes, 86 runs) delivered its file with the SHA-256 intact and no retransmissions.
 
