@@ -1,0 +1,191 @@
+{
+ "LORA / 200B": {
+  "mode": "LORA",
+  "size": 200,
+  "ack": {
+   "n": 20,
+   "acked": 20,
+   "lat_median_ms": 1066.5725469589233
+  },
+  "stream": {
+   "sent": 20,
+   "received": 20,
+   "send_s": 3.0085701942443848,
+   "total_s": 14.63140869140625,
+   "kbps": 2.187075808961251
+  },
+  "status": {
+   "A": [
+    "🔴 JT: Alt modem already off (LoRa).",
+    "🔴 JT Alt Modem: LORA BR:0.0k dev:0.0k bw:0.0k pre:0 | caps:FSK "
+   ],
+   "B": [
+    "🔴 JT: Alt modem already off (LoRa).",
+    "🔴 JT Alt Modem: LORA BR:0.0k dev:0.0k bw:0.0k pre:0 | caps:FSK "
+   ]
+  },
+  "rssi_median": -6.0
+ },
+ "FSK 25 / 200B": {
+  "mode": "FSK 25",
+  "size": 200,
+  "ack": {
+   "n": 20,
+   "acked": 20,
+   "lat_median_ms": 225.14843940734863
+  },
+  "stream": {
+   "sent": 20,
+   "received": 20,
+   "send_s": 1.0036869049072266,
+   "total_s": 2.2038207054138184,
+   "kbps": 14.52023747730025
+  },
+  "status": {
+   "A": [
+    "🔴 JT: FSK accepted. BR:25.0k DEV:12.5k BW:58.6k PRE:16. Applying LIVE in 5s.",
+    "🔴 JT Alt Modem: FSK BR:25.0k dev:12.5k bw:58.6k pre:16 | caps:FSK "
+   ],
+   "B": [
+    "🔴 JT: FSK accepted. BR:25.0k DEV:12.5k BW:58.6k PRE:16. Applying LIVE in 5s.",
+    "🔴 JT Alt Modem: FSK BR:25.0k dev:12.5k bw:58.6k pre:16 | caps:FSK "
+   ]
+  },
+  "rssi_median": -7.0
+ },
+ "FSK 50 / 200B": {
+  "mode": "FSK 50",
+  "size": 200,
+  "ack": {
+   "n": 20,
+   "acked": 20,
+   "lat_median_ms": 143.56184005737305
+  },
+  "stream": {
+   "sent": 20,
+   "received": 20,
+   "send_s": 1.0054385662078857,
+   "total_s": 1.4425239562988281,
+   "kbps": 22.183340429301676
+  },
+  "status": {
+   "A": [
+    "🔴 JT: FSK accepted. BR:50.0k DEV:25.0k BW:117.3k PRE:16. Applying LIVE in 5s.",
+    "🔴 JT Alt Modem: FSK BR:50.0k dev:25.0k bw:117.3k pre:16 | caps:FSK "
+   ],
+   "B": [
+    "🔴 JT: FSK accepted. BR:50.0k DEV:25.0k BW:117.3k PRE:16. Applying LIVE in 5s.",
+    "🔴 JT Alt Modem: FSK BR:50.0k dev:25.0k bw:117.3k pre:16 | caps:FSK "
+   ]
+  },
+  "rssi_median": -7.0
+ },
+ "FSK 100 / 200B": {
+  "mode": "FSK 100",
+  "size": 200,
+  "ack": {
+   "n": 20,
+   "acked": 20,
+   "lat_median_ms": 113.14630508422852
+  },
+  "stream": {
+   "sent": 20,
+   "received": 20,
+   "send_s": 1.0022573471069336,
+   "total_s": 1.122636079788208,
+   "kbps": 28.50433954165894
+  },
+  "status": {
+   "A": [
+    "🔴 JT: FSK accepted. BR:100.0k DEV:50.0k BW:234.3k PRE:16. Applying LIVE in 5s.",
+    "🔴 JT Alt Modem: FSK BR:100.0k dev:50.0k bw:234.3k pre:16 | caps:FSK "
+   ],
+   "B": [
+    "🔴 JT: FSK accepted. BR:100.0k DEV:50.0k BW:234.3k PRE:16. Applying LIVE in 5s.",
+    "🔴 JT Alt Modem: FSK BR:100.0k dev:50.0k bw:234.3k pre:16 | caps:FSK "
+   ]
+  },
+  "rssi_median": -8.0
+ },
+ "FSK 150 / 200B": {
+  "mode": "FSK 150",
+  "size": 200,
+  "ack": {
+   "n": 20,
+   "acked": 20,
+   "lat_median_ms": 105.72302341461182
+  },
+  "stream": {
+   "sent": 20,
+   "received": 20,
+   "send_s": 1.0037946701049805,
+   "total_s": 1.1116406917572021,
+   "kbps": 28.78627980900617
+  },
+  "status": {
+   "A": [
+    "🔴 JT: FSK accepted. BR:150.0k DEV:75.0k BW:312.0k PRE:16. Applying LIVE in 5s.",
+    "🔴 JT Alt Modem: FSK BR:150.0k dev:75.0k bw:312.0k pre:16 | caps:FSK "
+   ],
+   "B": [
+    "🔴 JT: FSK accepted. BR:150.0k DEV:75.0k BW:312.0k PRE:16. Applying LIVE in 5s.",
+    "🔴 JT Alt Modem: FSK BR:150.0k dev:75.0k bw:312.0k pre:16 | caps:FSK "
+   ]
+  },
+  "rssi_median": -8.0
+ },
+ "FSK 200 / 200B": {
+  "mode": "FSK 200",
+  "size": 200,
+  "ack": {
+   "n": 20,
+   "acked": 20,
+   "lat_median_ms": 101.96280479431152
+  },
+  "stream": {
+   "sent": 20,
+   "received": 20,
+   "send_s": 1.00301194190979,
+   "total_s": 1.1021244525909424,
+   "kbps": 29.03483352063591
+  },
+  "status": {
+   "A": [
+    "🔴 JT: FSK accepted. BR:200.0k DEV:100.0k BW:467.0k PRE:16. Applying LIVE in 5s.",
+    "🔴 JT Alt Modem: FSK BR:200.0k dev:100.0k bw:467.0k pre:16 | caps:FSK "
+   ],
+   "B": [
+    "🔴 JT: FSK accepted. BR:200.0k DEV:100.0k BW:467.0k PRE:16. Applying LIVE in 5s.",
+    "🔴 JT Alt Modem: FSK BR:200.0k dev:100.0k bw:467.0k pre:16 | caps:FSK "
+   ]
+  },
+  "rssi_median": -8.0
+ },
+ "FSK 300 / 200B": {
+  "mode": "FSK 300",
+  "size": 200,
+  "ack": {
+   "n": 20,
+   "acked": 20,
+   "lat_median_ms": 102.76603698730469
+  },
+  "stream": {
+   "sent": 20,
+   "received": 20,
+   "send_s": 1.0036935806274414,
+   "total_s": 1.0632543563842773,
+   "kbps": 30.09627922787902
+  },
+  "status": {
+   "A": [
+    "🔴 JT: Invalid FSK params (BR:0.6-300k, DEV:1.5-200k, BW:4.8-500k, PRE:4-1024)",
+    "🔴 JT Alt Modem: FSK BR:200.0k dev:100.0k bw:467.0k pre:16 | caps:FSK "
+   ],
+   "B": [
+    "🔴 JT: Invalid FSK params (BR:0.6-300k, DEV:1.5-200k, BW:4.8-500k, PRE:4-1024)",
+    "🔴 JT Alt Modem: FSK BR:200.0k dev:100.0k bw:467.0k pre:16 | caps:FSK "
+   ]
+  },
+  "rssi_median": -8.0
+ }
+}

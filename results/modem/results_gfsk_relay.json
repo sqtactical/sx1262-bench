@@ -1,0 +1,210 @@
+{
+ "modem": "gfsk",
+ "pl": 255,
+ "pwr": -9,
+ "freq_khz": 869525,
+ "win": 64,
+ "relay": true,
+ "results": [
+  {
+   "mode": "4.8k dev2.4 BW11.7",
+   "nominal_kbps": 4.8,
+   "pl": 255,
+   "toa_us": 443333,
+   "relay": {
+    "size": 1600,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 2.0513114731347897,
+    "radio_kbps": 2.05,
+    "host_s": 6.2399105000076815,
+    "pkts": 7,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 7,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "9.6k dev4.8 BW23.4",
+   "nominal_kbps": 9.6,
+   "pl": 255,
+   "toa_us": 221666,
+   "relay": {
+    "size": 3200,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 4.130527975483211,
+    "radio_kbps": 4.14,
+    "host_s": 6.197754900087602,
+    "pkts": 13,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 13,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "19.2k dev9.6 BW46.9",
+   "nominal_kbps": 19.2,
+   "pl": 255,
+   "toa_us": 110833,
+   "relay": {
+    "size": 6400,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 8.212918764051668,
+    "radio_kbps": 8.24,
+    "host_s": 6.234080899972469,
+    "pkts": 26,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 26,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "38.4k dev19.2 BW93.8",
+   "nominal_kbps": 38.4,
+   "pl": 255,
+   "toa_us": 55416,
+   "relay": {
+    "size": 12800,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 16.27296474463961,
+    "radio_kbps": 16.35,
+    "host_s": 6.292645600042306,
+    "pkts": 51,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 51,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "50k dev25 BW117.3",
+   "nominal_kbps": 50,
+   "pl": 255,
+   "toa_us": 42560,
+   "relay": {
+    "size": 16666,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 21.001186782607107,
+    "radio_kbps": 21.14,
+    "host_s": 6.348593599977903,
+    "pkts": 67,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 67,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "100k dev25 BW187.2",
+   "nominal_kbps": 100,
+   "pl": 255,
+   "toa_us": 21280,
+   "relay": {
+    "size": 33333,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 40.98883772575601,
+    "radio_kbps": 41.24,
+    "host_s": 6.505771200056188,
+    "pkts": 133,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 133,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "150k dev37.5 BW312",
+   "nominal_kbps": 150,
+   "pl": 255,
+   "toa_us": 14186,
+   "relay": {
+    "size": 50000,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 59.971711643458,
+    "radio_kbps": 60.33,
+    "host_s": 6.6698113000020385,
+    "pkts": 200,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 200,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "200k dev50 BW373.6",
+   "nominal_kbps": 200,
+   "pl": 255,
+   "toa_us": 10640,
+   "relay": {
+    "size": 66666,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 78.06821624072096,
+    "radio_kbps": 78.52,
+    "host_s": 6.831563799991272,
+    "pkts": 266,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 266,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "250k dev62.5 BW467",
+   "nominal_kbps": 250,
+   "pl": 255,
+   "toa_us": 8512,
+   "relay": {
+    "size": 68266,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 95.19173396612494,
+    "radio_kbps": 95.87,
+    "host_s": 5.73713680007495,
+    "pkts": 272,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 272,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "300k dev75 BW467",
+   "nominal_kbps": 300,
+   "pl": 255,
+   "toa_us": 7093,
+   "relay": {
+    "size": 68266,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 111.4656061333773,
+    "radio_kbps": 112.36,
+    "host_s": 4.899520299979486,
+    "pkts": 272,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 272,
+    "fwdretx": 0
+   }
+  }
+ ]
+}

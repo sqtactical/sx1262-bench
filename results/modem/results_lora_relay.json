@@ -1,0 +1,330 @@
+{
+ "modem": "lora",
+ "pl": 255,
+ "pwr": -9,
+ "freq_khz": 869525,
+ "win": 64,
+ "relay": true,
+ "results": [
+  {
+   "mode": "SF11 BW500",
+   "nominal_kbps": 2.1484375,
+   "pl": 255,
+   "toa_us": 1061888,
+   "relay": {
+    "size": 716,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 0.8217279325947906,
+    "radio_kbps": 0.82,
+    "host_s": 6.970677000004798,
+    "pkts": 3,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 3,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF8 BW125",
+   "nominal_kbps": 3.125,
+   "pl": 255,
+   "toa_us": 715263,
+   "relay": {
+    "size": 1041,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 1.209076418184463,
+    "radio_kbps": 1.21,
+    "host_s": 6.887902100104839,
+    "pkts": 5,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 5,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF9 BW250",
+   "nominal_kbps": 3.515625,
+   "pl": 255,
+   "toa_us": 633343,
+   "relay": {
+    "size": 1171,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 1.376212114829188,
+    "radio_kbps": 1.38,
+    "host_s": 6.807090200018138,
+    "pkts": 5,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 5,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF10 BW500",
+   "nominal_kbps": 3.90625,
+   "pl": 255,
+   "toa_us": 582143,
+   "relay": {
+    "size": 1302,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 1.455851878826849,
+    "radio_kbps": 1.46,
+    "host_s": 7.154573999927379,
+    "pkts": 6,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 6,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF7 BW125",
+   "nominal_kbps": 5.46875,
+   "pl": 255,
+   "toa_us": 403711,
+   "relay": {
+    "size": 1822,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 2.180379622987006,
+    "radio_kbps": 2.18,
+    "host_s": 6.685074400040321,
+    "pkts": 8,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 8,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF8 BW250",
+   "nominal_kbps": 6.25,
+   "pl": 255,
+   "toa_us": 357631,
+   "relay": {
+    "size": 2083,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 2.464665352679725,
+    "radio_kbps": 2.47,
+    "host_s": 6.76116130000446,
+    "pkts": 9,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 9,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF9 BW500",
+   "nominal_kbps": 7.03125,
+   "pl": 255,
+   "toa_us": 316671,
+   "relay": {
+    "size": 2343,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 2.7518958042845143,
+    "radio_kbps": 2.76,
+    "host_s": 6.811304399976507,
+    "pkts": 10,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 10,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF6 BW125",
+   "nominal_kbps": 9.375,
+   "pl": 255,
+   "toa_us": 233599,
+   "relay": {
+    "size": 3125,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 3.839596288251831,
+    "radio_kbps": 3.85,
+    "host_s": 6.51110120001249,
+    "pkts": 13,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 13,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF7 BW250",
+   "nominal_kbps": 10.9375,
+   "pl": 255,
+   "toa_us": 201855,
+   "relay": {
+    "size": 3645,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 4.400393427775795,
+    "radio_kbps": 4.41,
+    "host_s": 6.626680199988186,
+    "pkts": 15,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 15,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF8 BW500",
+   "nominal_kbps": 12.5,
+   "pl": 255,
+   "toa_us": 178815,
+   "relay": {
+    "size": 4166,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 4.9717663402783305,
+    "radio_kbps": 4.98,
+    "host_s": 6.703452599933371,
+    "pkts": 17,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 17,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF5 BW125",
+   "nominal_kbps": 15.625,
+   "pl": 255,
+   "toa_us": 138560,
+   "relay": {
+    "size": 5208,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 6.523812235662337,
+    "radio_kbps": 6.54,
+    "host_s": 6.386449899990112,
+    "pkts": 21,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 21,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF6 BW250",
+   "nominal_kbps": 18.75,
+   "pl": 255,
+   "toa_us": 116799,
+   "relay": {
+    "size": 6250,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 7.683420102994707,
+    "radio_kbps": 7.71,
+    "host_s": 6.507518699974753,
+    "pkts": 25,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 25,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF7 BW500",
+   "nominal_kbps": 21.875,
+   "pl": 255,
+   "toa_us": 100927,
+   "relay": {
+    "size": 7291,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 8.744666458783568,
+    "radio_kbps": 8.77,
+    "host_s": 6.670122900046408,
+    "pkts": 30,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 30,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF5 BW250",
+   "nominal_kbps": 31.25,
+   "pl": 255,
+   "toa_us": 69280,
+   "relay": {
+    "size": 10416,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 12.912873189895535,
+    "radio_kbps": 12.97,
+    "host_s": 6.453095200005919,
+    "pkts": 42,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 42,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF6 BW500",
+   "nominal_kbps": 37.5,
+   "pl": 255,
+   "toa_us": 58399,
+   "relay": {
+    "size": 12500,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 15.20083980383258,
+    "radio_kbps": 15.28,
+    "host_s": 6.578583900001831,
+    "pkts": 50,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 50,
+    "fwdretx": 0
+   }
+  },
+  {
+   "mode": "SF5 BW500",
+   "nominal_kbps": 62.5,
+   "pl": 255,
+   "toa_us": 34640,
+   "relay": {
+    "size": 20833,
+    "sha_ok": true,
+    "mismatch": 0,
+    "e2e_kbps": 25.431460402702893,
+    "radio_kbps": 25.59,
+    "host_s": 6.553457700065337,
+    "pkts": 83,
+    "retries": 0,
+    "dupfwd": 0,
+    "radio_resets": 0,
+    "relayed": 83,
+    "fwdretx": 0
+   }
+  }
+ ]
+}

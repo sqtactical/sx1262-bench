@@ -1,0 +1,83 @@
+{
+ "FSK 100 / 200B": {
+  "mode": "FSK 100",
+  "size": 200,
+  "ack": {
+   "n": 20,
+   "acked": 20,
+   "lat_median_ms": 117.67137050628662
+  },
+  "stream": {
+   "sent": 20,
+   "received": 20,
+   "send_s": 1.0060055255889893,
+   "total_s": 1.3387157917022705,
+   "kbps": 23.9035052834551
+  },
+  "status": {
+   "A": [
+    "🔴 JT: FSK accepted. BR:100.0k DEV:50.0k BW:234.3k PRE:16. Applying LIVE in 5s.",
+    "🔴 JT Alt Modem: FSK BR:100.0k dev:50.0k bw:234.3k pre:16 | caps:FSK "
+   ],
+   "B": [
+    "🔴 JT: FSK accepted. BR:100.0k DEV:50.0k BW:234.3k PRE:16. Applying LIVE in 5s.",
+    "🔴 JT Alt Modem: FSK BR:100.0k dev:50.0k bw:234.3k pre:16 | caps:FSK "
+   ]
+  },
+  "rssi_median": -8.0
+ },
+ "FSK 200 / 200B": {
+  "mode": "FSK 200",
+  "size": 200,
+  "ack": {
+   "n": 20,
+   "acked": 20,
+   "lat_median_ms": 117.30074882507324
+  },
+  "stream": {
+   "sent": 20,
+   "received": 20,
+   "send_s": 1.0037710666656494,
+   "total_s": 1.2329726219177246,
+   "kbps": 25.953536543437814
+  },
+  "status": {
+   "A": [
+    "🔴 JT: FSK accepted. BR:200.0k DEV:100.0k BW:467.0k PRE:16. Applying LIVE in 5s.",
+    "🔴 JT Alt Modem: FSK BR:200.0k dev:100.0k bw:467.0k pre:16 | caps:FSK "
+   ],
+   "B": [
+    "🔴 JT: FSK accepted. BR:200.0k DEV:100.0k BW:467.0k PRE:16. Applying LIVE in 5s.",
+    "🔴 JT Alt Modem: FSK BR:200.0k dev:100.0k bw:467.0k pre:16 | caps:FSK "
+   ]
+  },
+  "rssi_median": -8.0
+ },
+ "FSK 300 / 200B": {
+  "mode": "FSK 300",
+  "size": 200,
+  "ack": {
+   "n": 20,
+   "acked": 20,
+   "lat_median_ms": 106.58347606658936
+  },
+  "stream": {
+   "sent": 20,
+   "received": 20,
+   "send_s": 1.001866340637207,
+   "total_s": 1.1447324752807617,
+   "kbps": 27.95412962504759
+  },
+  "status": {
+   "A": [
+    "🔴 JT: Invalid FSK params (BR:0.6-300k, DEV:1.5-200k, BW:4.8-500k, PRE:4-1024)",
+    "🔴 JT Alt Modem: FSK BR:200.0k dev:100.0k bw:467.0k pre:16 | caps:FSK "
+   ],
+   "B": [
+    "🔴 JT: Invalid FSK params (BR:0.6-300k, DEV:1.5-200k, BW:4.8-500k, PRE:4-1024)",
+    "🔴 JT Alt Modem: FSK BR:200.0k dev:100.0k bw:467.0k pre:16 | caps:FSK "
+   ]
+  },
+  "rssi_median": -8.0
+ }
+}

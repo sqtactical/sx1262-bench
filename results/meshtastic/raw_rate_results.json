@@ -1,0 +1,315 @@
+{
+ "FSK 300": {
+  "50.0": {
+   "interval_ms": 50.0,
+   "offered_kbps": 35.2,
+   "sent": 60,
+   "received": 4,
+   "send_s": 3.0,
+   "span_s": 3.28,
+   "kbps": 2.1
+  },
+  "30.0": {
+   "interval_ms": 30.0,
+   "offered_kbps": 58.666666666666664,
+   "sent": 60,
+   "received": 53,
+   "send_s": 1.8,
+   "span_s": 2.37,
+   "kbps": 39.3
+  },
+  "20.0": {
+   "interval_ms": 20.0,
+   "offered_kbps": 88.0,
+   "sent": 60,
+   "received": 34,
+   "send_s": 1.2,
+   "span_s": 1.75,
+   "kbps": 34.1
+  },
+  "15.0": {
+   "interval_ms": 15.0,
+   "offered_kbps": 117.33333333333333,
+   "sent": 60,
+   "received": 27,
+   "send_s": 0.9,
+   "span_s": 1.46,
+   "kbps": 32.6
+  },
+  "10.0": {
+   "interval_ms": 10.0,
+   "offered_kbps": 176.0,
+   "sent": 60,
+   "received": 21,
+   "send_s": 0.8,
+   "span_s": 1.37,
+   "kbps": 26.9
+  },
+  "5.0": {
+   "interval_ms": 5.0,
+   "offered_kbps": 352.0,
+   "sent": 60,
+   "received": 25,
+   "send_s": 0.84,
+   "span_s": 1.41,
+   "kbps": 31.2
+  }
+ },
+ "FSK 300 b": {
+  "50.0": {
+   "interval_ms": 50.0,
+   "offered_kbps": 35.2,
+   "sent": 80,
+   "received": 78,
+   "send_s": 4.0,
+   "span_s": 4.01,
+   "kbps": 34.2
+  },
+  "40.0": {
+   "interval_ms": 40.0,
+   "offered_kbps": 44.0,
+   "sent": 80,
+   "received": 78,
+   "send_s": 3.2,
+   "span_s": 3.31,
+   "kbps": 41.5
+  },
+  "35.0": {
+   "interval_ms": 35.0,
+   "offered_kbps": 50.285714285714285,
+   "sent": 80,
+   "received": 78,
+   "send_s": 2.8,
+   "span_s": 3.33,
+   "kbps": 41.3
+  },
+  "30.0": {
+   "interval_ms": 30.0,
+   "offered_kbps": 58.666666666666664,
+   "sent": 80,
+   "received": 71,
+   "send_s": 2.4,
+   "span_s": 2.96,
+   "kbps": 42.3
+  },
+  "25.0": {
+   "interval_ms": 25.0,
+   "offered_kbps": 70.4,
+   "sent": 80,
+   "received": 52,
+   "send_s": 2.0,
+   "span_s": 2.56,
+   "kbps": 35.8
+  }
+ },
+ "FSK 150": {
+  "50.0": {
+   "interval_ms": 50.0,
+   "offered_kbps": 35.2,
+   "sent": 80,
+   "received": 78,
+   "send_s": 4.0,
+   "span_s": 4.06,
+   "kbps": 33.8
+  },
+  "40.0": {
+   "interval_ms": 40.0,
+   "offered_kbps": 44.0,
+   "sent": 80,
+   "received": 74,
+   "send_s": 3.2,
+   "span_s": 4.03,
+   "kbps": 32.3
+  },
+  "30.0": {
+   "interval_ms": 30.0,
+   "offered_kbps": 58.666666666666664,
+   "sent": 80,
+   "received": 63,
+   "send_s": 2.4,
+   "span_s": 3.09,
+   "kbps": 35.9
+  }
+ },
+ "GFSK_TURBO": {
+  "50.0": {
+   "interval_ms": 50.0,
+   "offered_kbps": 35.2,
+   "sent": 80,
+   "received": 80,
+   "send_s": 4.0,
+   "span_s": 4.04,
+   "kbps": 34.9
+  },
+  "40.0": {
+   "interval_ms": 40.0,
+   "offered_kbps": 44.0,
+   "sent": 80,
+   "received": 80,
+   "send_s": 3.2,
+   "span_s": 3.8,
+   "kbps": 37.1
+  },
+  "30.0": {
+   "interval_ms": 30.0,
+   "offered_kbps": 58.666666666666664,
+   "sent": 80,
+   "received": 54,
+   "send_s": 2.4,
+   "span_s": 3.12,
+   "kbps": 30.5
+  },
+  "25.0": {
+   "interval_ms": 25.0,
+   "offered_kbps": 70.4,
+   "sent": 80,
+   "received": 48,
+   "send_s": 2.0,
+   "span_s": 2.57,
+   "kbps": 32.9
+  }
+ },
+ "GFSK_FAST": {
+  "50.0": {
+   "interval_ms": 50.0,
+   "offered_kbps": 35.2,
+   "sent": 80,
+   "received": 80,
+   "send_s": 4.0,
+   "span_s": 4.09,
+   "kbps": 34.4
+  },
+  "40.0": {
+   "interval_ms": 40.0,
+   "offered_kbps": 44.0,
+   "sent": 80,
+   "received": 76,
+   "send_s": 3.2,
+   "span_s": 3.86,
+   "kbps": 34.7
+  },
+  "30.0": {
+   "interval_ms": 30.0,
+   "offered_kbps": 58.666666666666664,
+   "sent": 80,
+   "received": 64,
+   "send_s": 2.4,
+   "span_s": 3.01,
+   "kbps": 37.4
+  },
+  "25.0": {
+   "interval_ms": 25.0,
+   "offered_kbps": 70.4,
+   "sent": 80,
+   "received": 44,
+   "send_s": 2.0,
+   "span_s": 2.63,
+   "kbps": 29.5
+  }
+ },
+ "GFSK_MEDIUM": {
+  "50.0": {
+   "interval_ms": 50.0,
+   "offered_kbps": 35.2,
+   "sent": 80,
+   "received": 77,
+   "send_s": 4.0,
+   "span_s": 4.91,
+   "kbps": 27.6
+  },
+  "40.0": {
+   "interval_ms": 40.0,
+   "offered_kbps": 44.0,
+   "sent": 80,
+   "received": 59,
+   "send_s": 3.2,
+   "span_s": 4.13,
+   "kbps": 25.2
+  },
+  "30.0": {
+   "interval_ms": 30.0,
+   "offered_kbps": 58.666666666666664,
+   "sent": 80,
+   "received": 48,
+   "send_s": 2.4,
+   "span_s": 3.36,
+   "kbps": 25.1
+  },
+  "25.0": {
+   "interval_ms": 25.0,
+   "offered_kbps": 70.4,
+   "sent": 80,
+   "received": 40,
+   "send_s": 2.0,
+   "span_s": 2.94,
+   "kbps": 23.9
+  }
+ },
+ "GFSK_LONG": {
+  "50.0": {
+   "interval_ms": 50.0,
+   "offered_kbps": 35.2,
+   "sent": 80,
+   "received": 54,
+   "send_s": 4.0,
+   "span_s": 5.65,
+   "kbps": 16.8
+  },
+  "40.0": {
+   "interval_ms": 40.0,
+   "offered_kbps": 44.0,
+   "sent": 80,
+   "received": 45,
+   "send_s": 3.2,
+   "span_s": 4.77,
+   "kbps": 16.6
+  },
+  "30.0": {
+   "interval_ms": 30.0,
+   "offered_kbps": 58.666666666666664,
+   "sent": 80,
+   "received": 38,
+   "send_s": 2.4,
+   "span_s": 4.03,
+   "kbps": 16.6
+  },
+  "25.0": {
+   "interval_ms": 25.0,
+   "offered_kbps": 70.4,
+   "sent": 80,
+   "received": 33,
+   "send_s": 2.0,
+   "span_s": 3.75,
+   "kbps": 15.5
+  }
+ },
+ "SHORT_FAST": {
+  "300.0": {
+   "interval_ms": 300.0,
+   "offered_kbps": 5.866666666666666,
+   "sent": 40,
+   "received": 40,
+   "send_s": 12.0,
+   "span_s": 11.93,
+   "kbps": 5.9
+  },
+  "150.0": {
+   "interval_ms": 150.0,
+   "offered_kbps": 11.733333333333333,
+   "sent": 40,
+   "received": 39,
+   "send_s": 6.0,
+   "span_s": 10.39,
+   "kbps": 6.6
+  },
+  "100.0": {
+   "interval_ms": 100.0,
+   "offered_kbps": 17.6,
+   "sent": 40,
+   "received": 31,
+   "send_s": 4.0,
+   "span_s": 8.42,
+   "kbps": 6.5
+  }
+ }
+}
